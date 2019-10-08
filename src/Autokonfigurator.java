@@ -19,10 +19,9 @@ public class Autokonfigurator {
     private static ArrayList<Paket> ausgewaehltePakete = new ArrayList<>();
 
     public static void main(String[] args) {
+        //Test
       Autokonfigurator autokonfigurator = new Autokonfigurator();
       autokonfigurator.menu();
-      //test2
-
     }
 
     private  void menu(){
