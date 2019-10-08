@@ -1,0 +1,4 @@
+Standard Paket;einfaches Paket ohne Extras;0;0
+Delux Paket;Becherhalter und Massagesitze (siehe Produktkatalog);5000;10
+Medien Paket;Bildschirme an den Sitzen (siehe Produktkatalog);2000;5
+Wintereifen-Aktions Paket;4 Wintereifen;200;1
